@@ -1,5 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Scelo #uMnikazi Wempuphuh</h1>
-<h3 align="center">A Software Developer from Mzansi</h3>
+<h1 align="center">Hello World 👋,I am a Software Developer from Mzansi</h1>
 
 
 <img alt="matrix simulation" src="https://miro.medium.com/v2/resize:fit:1400/1*eBZfXMuE72uCDtjUZEzZHQ.gif">
