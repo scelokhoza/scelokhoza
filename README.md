@@ -40,8 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scelokhoza&show_icons=true&locale=en" alt="scelokhoza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scelokhoza&" alt="scelokhoza" /></p><h1 align="center">Hello World 👋, I'm Scelo</h1>
-<h3 align="center">A Software Developer from Mzansi</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scelokhoza&" alt="scelokhoza" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scelokhoza&label=Profile%20views&color=0e75b6&style=flat" alt="scelokhoza" /> </p>
 
